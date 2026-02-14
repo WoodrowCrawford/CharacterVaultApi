@@ -1,0 +1,6 @@
+@CharacterVaultApi_HostAddress = http://localhost:5271
+
+GET {{CharacterVaultApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

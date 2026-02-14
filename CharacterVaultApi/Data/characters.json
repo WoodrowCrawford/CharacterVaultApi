@@ -1,0 +1,20 @@
+[
+  {
+    "Id": 1,
+    "Name": "Aether",
+    "Class": "Warrior",
+    "Level": 10
+  },
+  {
+    "Id": 2,
+    "Name": "Lyra",
+    "Class": "Mage",
+    "Level": 7
+  },
+  {
+    "Id": 3,
+    "Name": "Joe",
+    "Class": "Mage",
+    "Level": 30
+  }
+]
