@@ -1,5 +1,5 @@
 # CharacterVaultApi
-CharacterDataTool API is a simple ASP.NET Core Web API that manages game character data and persists it to a JSON file. It provides REST endpoints to create, read, update, and delete characters, and includes Swagger for easy testing and exploration of the API.
+CharacterDataTool API is an ASP.NET Core Web API that manages game character data and persists it to a JSON file. It provides REST endpoints to create, read, update, and delete characters, and includes Swagger for easy testing and exploration of the API.
 
 # This project demonstrates:
 -	Building a Web API with ASP.NET Core
